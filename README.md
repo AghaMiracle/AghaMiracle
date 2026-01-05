@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **Perlica**
+- 👯 I’m collaborating on **Perlica**
 
 - 👨‍💻 All of my projects are available at [https://thalvor.onrender.com/](https://thalvor.onrender.com/)
 
